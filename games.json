@@ -1,0 +1,4997 @@
+[
+  {
+    "id": "stickman-rogue-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/300.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-garbaggio-hotel",
+    "thumbnail": "https://ArcNovaZone.github.io/images/301.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "capybara-block-drop",
+    "thumbnail": "https://ArcNovaZone.github.io/images/302.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "daily-match",
+    "thumbnail": "https://ArcNovaZone.github.io/images/303.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "100-hidden-capybaras",
+    "thumbnail": "https://ArcNovaZone.github.io/images/304.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "words-from-words-sea",
+    "thumbnail": "https://ArcNovaZone.github.io/images/305.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doomsday-survival-rpg-shooter",
+    "thumbnail": "https://ArcNovaZone.github.io/images/306.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "basketball-stars-2026",
+    "thumbnail": "https://ArcNovaZone.github.io/images/307.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "jewel-garden-story",
+    "thumbnail": "https://ArcNovaZone.github.io/images/308.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "gear-wars",
+    "thumbnail": "https://ArcNovaZone.github.io/images/309.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "cut-in-half-please",
+    "thumbnail": "https://ArcNovaZone.github.io/images/310.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mineblocks-3d-maze",
+    "thumbnail": "https://ArcNovaZone.github.io/images/311.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "realm-traveler",
+    "thumbnail": "https://ArcNovaZone.github.io/images/312.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cosmos-404",
+    "thumbnail": "https://ArcNovaZone.github.io/images/313.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-plane-power-challenge-fly",
+    "thumbnail": "https://ArcNovaZone.github.io/images/314.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-blocks-classic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/315.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bus-parking-out",
+    "thumbnail": "https://ArcNovaZone.github.io/images/316.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "iconic-halloween-costumes",
+    "thumbnail": "https://ArcNovaZone.github.io/images/317.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "obstacle-car-driving",
+    "thumbnail": "https://ArcNovaZone.github.io/images/318.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "dead-zed",
+    "thumbnail": "https://ArcNovaZone.github.io/images/319.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fast-food-factory",
+    "thumbnail": "https://ArcNovaZone.github.io/images/320.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zenith-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/321.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "obby-tsunami-escape-1-by-car",
+    "thumbnail": "https://ArcNovaZone.github.io/images/322.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://ArcNovaZone.github.io/images/323.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "computer-office-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/324.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "highway-racer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/325.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "witch-craft-potion-sort",
+    "thumbnail": "https://ArcNovaZone.github.io/images/326.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pumpkin-patch",
+    "thumbnail": "https://ArcNovaZone.github.io/images/327.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "drive-to-survive",
+    "thumbnail": "https://ArcNovaZone.github.io/images/328.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "ant-kingdom-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/329.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unscrew-them-all",
+    "thumbnail": "https://ArcNovaZone.github.io/images/330.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-nuts",
+    "thumbnail": "https://ArcNovaZone.github.io/images/331.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "agent-squad",
+    "thumbnail": "https://ArcNovaZone.github.io/images/332.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "bakery-manage-store-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/333.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "racing-online-fph",
+    "thumbnail": "https://ArcNovaZone.github.io/images/334.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tanky-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/335.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "billiards",
+    "thumbnail": "https://ArcNovaZone.github.io/images/336.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-dice",
+    "thumbnail": "https://ArcNovaZone.github.io/images/337.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "frogiddy",
+    "thumbnail": "https://ArcNovaZone.github.io/images/338.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://ArcNovaZone.github.io/images/339.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "draw-to-home-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/340.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "move-emoji",
+    "thumbnail": "https://ArcNovaZone.github.io/images/341.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "screw-it-out-jam-matching-colored-screws",
+    "thumbnail": "https://ArcNovaZone.github.io/images/342.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "countryside-driving-quest",
+    "thumbnail": "https://ArcNovaZone.github.io/images/343.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cars-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/344.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://ArcNovaZone.github.io/images/345.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-superpowers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/346.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://ArcNovaZone.github.io/images/347.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "park-master-car-parking-jam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/348.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "matching-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/349.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "battle-arena-race-to-win",
+    "thumbnail": "https://ArcNovaZone.github.io/images/350.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "waffle-words",
+    "thumbnail": "https://ArcNovaZone.github.io/images/351.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "volley-random",
+    "thumbnail": "https://ArcNovaZone.github.io/images/352.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spaceflight-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/353.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cake-link-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/354.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "one-among-zombies",
+    "thumbnail": "https://ArcNovaZone.github.io/images/355.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "driver-club-highway-racing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/356.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heroes-of-the-wasteland",
+    "thumbnail": "https://ArcNovaZone.github.io/images/357.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-ww2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/358.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stacking-match",
+    "thumbnail": "https://ArcNovaZone.github.io/images/359.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bouncy-motors",
+    "thumbnail": "https://ArcNovaZone.github.io/images/360.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paint-sponges-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/361.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-1-speed-car-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/362.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bus-color-jam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/363.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "universe-maker-cui",
+    "thumbnail": "https://ArcNovaZone.github.io/images/364.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "9-ball-pool-online-multiplayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/365.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heroes-tower-myz",
+    "thumbnail": "https://ArcNovaZone.github.io/images/366.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/367.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "super-ninja-balloon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/368.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "grand-mahjong-connect",
+    "thumbnail": "https://ArcNovaZone.github.io/images/369.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "rocket-well",
+    "thumbnail": "https://ArcNovaZone.github.io/images/370.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blob-hero",
+    "thumbnail": "https://ArcNovaZone.github.io/images/371.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "light-the-lamp",
+    "thumbnail": "https://ArcNovaZone.github.io/images/372.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-vs-goblins",
+    "thumbnail": "https://ArcNovaZone.github.io/images/373.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bus-driving-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/374.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "carvivor-ops",
+    "thumbnail": "https://ArcNovaZone.github.io/images/375.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "pato-vs-cops",
+    "thumbnail": "https://ArcNovaZone.github.io/images/376.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "level-up-mutants",
+    "thumbnail": "https://ArcNovaZone.github.io/images/377.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "sort-my-parking-area",
+    "thumbnail": "https://ArcNovaZone.github.io/images/378.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "airborne-motocross",
+    "thumbnail": "https://ArcNovaZone.github.io/images/379.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "exhibit-of-sorrows",
+    "thumbnail": "https://ArcNovaZone.github.io/images/380.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ludo-legend",
+    "thumbnail": "https://ArcNovaZone.github.io/images/381.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ball-mania",
+    "thumbnail": "https://ArcNovaZone.github.io/images/382.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "woop-crawl-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/383.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-room-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/384.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "teleport-jumper",
+    "thumbnail": "https://ArcNovaZone.github.io/images/385.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-trouble-2-rebubbled",
+    "thumbnail": "https://ArcNovaZone.github.io/images/386.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fire-snake",
+    "thumbnail": "https://ArcNovaZone.github.io/images/387.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "evolutionary-tribe-mqd",
+    "thumbnail": "https://ArcNovaZone.github.io/images/388.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-vs-zombies",
+    "thumbnail": "https://ArcNovaZone.github.io/images/389.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "word-solitaire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/390.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mushroom-fever-match-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/391.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pin-puzzle-love-story",
+    "thumbnail": "https://ArcNovaZone.github.io/images/392.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "luna-and-the-magic-maze",
+    "thumbnail": "https://ArcNovaZone.github.io/images/393.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-masters",
+    "thumbnail": "https://ArcNovaZone.github.io/images/394.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://ArcNovaZone.github.io/images/395.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "black-pink-christmas-concert",
+    "thumbnail": "https://ArcNovaZone.github.io/images/396.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "moto-x3m-dead-ahead",
+    "thumbnail": "https://ArcNovaZone.github.io/images/397.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "lava-and-aqua",
+    "thumbnail": "https://ArcNovaZone.github.io/images/398.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://ArcNovaZone.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "knife-master-ball-racing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/400.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "vex-9",
+    "thumbnail": "https://ArcNovaZone.github.io/images/401.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "click-click-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/402.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-supermarket-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/403.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "jeep-parking-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/404.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mad-evolution-idle-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/405.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-airport-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/406.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ghostly-graveyard-halloween-special",
+    "thumbnail": "https://ArcNovaZone.github.io/images/407.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "melon-drop-fruit-merge-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/408.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "boxing-random",
+    "thumbnail": "https://ArcNovaZone.github.io/images/409.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nimrods-guncraft-survivor---demo",
+    "thumbnail": "https://ArcNovaZone.github.io/images/410.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/411.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shanghai-chef",
+    "thumbnail": "https://ArcNovaZone.github.io/images/412.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lambo-traffic-racer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/413.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dead-paradise",
+    "thumbnail": "https://ArcNovaZone.github.io/images/414.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "grindcraft",
+    "thumbnail": "https://ArcNovaZone.github.io/images/415.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sum-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/416.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "army-fight-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/417.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "3d-acrylic-nail-nail-art-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/418.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "happy-farm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/419.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "foreign-creature-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/420.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "data-diggers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/421.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://ArcNovaZone.github.io/images/422.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "merge-crusher",
+    "thumbnail": "https://ArcNovaZone.github.io/images/423.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-football-fever",
+    "thumbnail": "https://ArcNovaZone.github.io/images/424.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/425.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "moto-x3m-pool-party",
+    "thumbnail": "https://ArcNovaZone.github.io/images/426.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-mini-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/427.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "big-tall-small",
+    "thumbnail": "https://ArcNovaZone.github.io/images/428.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hole-digger-ekz",
+    "thumbnail": "https://ArcNovaZone.github.io/images/429.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "winter-gifts",
+    "thumbnail": "https://ArcNovaZone.github.io/images/430.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "angry-snake-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/431.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "billiards-3d-russian-pyramid",
+    "thumbnail": "https://ArcNovaZone.github.io/images/432.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "python-snake-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/433.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cattosu-chonk-cat-merge-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/434.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-annihilation-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/435.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ok-parking",
+    "thumbnail": "https://ArcNovaZone.github.io/images/436.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-builder-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coffee-craze-sorting-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/438.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "winter-wonderland-mahjong",
+    "thumbnail": "https://ArcNovaZone.github.io/images/439.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "doggi",
+    "thumbnail": "https://ArcNovaZone.github.io/images/440.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-onion-boy-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/441.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "syder-hyper-drive",
+    "thumbnail": "https://ArcNovaZone.github.io/images/442.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "daily-wordler",
+    "thumbnail": "https://ArcNovaZone.github.io/images/443.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "makeover-surgeons",
+    "thumbnail": "https://ArcNovaZone.github.io/images/444.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "airport-master-plane-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/445.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "farm-51-secret-harvest",
+    "thumbnail": "https://ArcNovaZone.github.io/images/446.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diy-phone-case-shop",
+    "thumbnail": "https://ArcNovaZone.github.io/images/447.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "battle-of-pirate-caribbean-battle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/448.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "my-perfect-farm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/449.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-shoot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/450.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "alchemy-merge-elements",
+    "thumbnail": "https://ArcNovaZone.github.io/images/451.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strike-force-heroes",
+    "thumbnail": "https://ArcNovaZone.github.io/images/452.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "from-nerd-to-popular-ballerina-cappuccina",
+    "thumbnail": "https://ArcNovaZone.github.io/images/453.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "go-to-zero",
+    "thumbnail": "https://ArcNovaZone.github.io/images/454.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "1941-frozen-front",
+    "thumbnail": "https://ArcNovaZone.github.io/images/455.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-white-room-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/456.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "beaver-builder",
+    "thumbnail": "https://ArcNovaZone.github.io/images/457.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "apple-worm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/458.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tung-tung-sahur-coloring-book",
+    "thumbnail": "https://ArcNovaZone.github.io/images/459.webp",
+    "genre": "Agility, Art"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/460.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "black-pink-stpatricks-day-concert",
+    "thumbnail": "https://ArcNovaZone.github.io/images/461.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "legend-of-hero",
+    "thumbnail": "https://ArcNovaZone.github.io/images/462.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "checkers-deluxe-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/463.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "carball-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/464.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "doomsday-tower-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/465.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "just-hit-the-button",
+    "thumbnail": "https://ArcNovaZone.github.io/images/466.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ball-bunker-sneaky-stacks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/467.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "steal-brainrot-survivors-ddq",
+    "thumbnail": "https://ArcNovaZone.github.io/images/468.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://ArcNovaZone.github.io/images/469.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "pipe-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/470.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kings-and-queens-match-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/471.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "maze-escape-toilet-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/472.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "death-attraction-horror-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/473.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "99-nights-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/474.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-wood-block",
+    "thumbnail": "https://ArcNovaZone.github.io/images/475.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noobhood-halloweencraft",
+    "thumbnail": "https://ArcNovaZone.github.io/images/476.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mahjong-solitaire-zodiac",
+    "thumbnail": "https://ArcNovaZone.github.io/images/477.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sand-king",
+    "thumbnail": "https://ArcNovaZone.github.io/images/478.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ugc-math-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/479.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "car-simulator-3d-car-game-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/480.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "princess-run-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/481.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "sprunki-monster-music-beats",
+    "thumbnail": "https://ArcNovaZone.github.io/images/482.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pop-jewels",
+    "thumbnail": "https://ArcNovaZone.github.io/images/483.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "checkers-deluxe-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/484.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "street-racer-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/485.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fight-trivia",
+    "thumbnail": "https://ArcNovaZone.github.io/images/486.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "tunnel-road",
+    "thumbnail": "https://ArcNovaZone.github.io/images/487.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "superstar-family-dress-up-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/488.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fun-town-parking",
+    "thumbnail": "https://ArcNovaZone.github.io/images/489.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "escape-or-die",
+    "thumbnail": "https://ArcNovaZone.github.io/images/490.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fusion-2048",
+    "thumbnail": "https://ArcNovaZone.github.io/images/491.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kings-and-queens-mahjong",
+    "thumbnail": "https://ArcNovaZone.github.io/images/492.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gas-station-stick-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/493.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ice-cream-fever-cooking-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/494.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "find-the-pets-cph",
+    "thumbnail": "https://ArcNovaZone.github.io/images/495.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basket-cats",
+    "thumbnail": "https://ArcNovaZone.github.io/images/496.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nightfall-survival-siege-gxt",
+    "thumbnail": "https://ArcNovaZone.github.io/images/497.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sky-balls-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/498.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "big-bad-ape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/499.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "match-factory",
+    "thumbnail": "https://ArcNovaZone.github.io/images/500.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "liquids-sort-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/501.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "epic-mine",
+    "thumbnail": "https://ArcNovaZone.github.io/images/502.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-plopper",
+    "thumbnail": "https://ArcNovaZone.github.io/images/503.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "ball-sort-color-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/504.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "boolu-bask",
+    "thumbnail": "https://ArcNovaZone.github.io/images/505.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "chess-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/506.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "happy-glass-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/507.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "syntaxia",
+    "thumbnail": "https://ArcNovaZone.github.io/images/508.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "deadly-red-spikes",
+    "thumbnail": "https://ArcNovaZone.github.io/images/509.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-and-hover",
+    "thumbnail": "https://ArcNovaZone.github.io/images/510.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/511.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mining-in-notebook",
+    "thumbnail": "https://ArcNovaZone.github.io/images/512.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "interior-designer-unpacking-house",
+    "thumbnail": "https://ArcNovaZone.github.io/images/513.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "push-the-frog",
+    "thumbnail": "https://ArcNovaZone.github.io/images/514.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hyper-nurse-hospital-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/515.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "transform-car-battle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/516.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "big-giant-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/517.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/518.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-baby-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/519.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-crazy-cart-ride-qlw",
+    "thumbnail": "https://ArcNovaZone.github.io/images/520.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-clash-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/521.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-pin-master-pull-pin-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/522.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crash-stunt",
+    "thumbnail": "https://ArcNovaZone.github.io/images/523.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "enchanted-easter-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/524.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "merge-beasts",
+    "thumbnail": "https://ArcNovaZone.github.io/images/525.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "save-the-hostages",
+    "thumbnail": "https://ArcNovaZone.github.io/images/526.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "frost-land-snow-survival",
+    "thumbnail": "https://ArcNovaZone.github.io/images/527.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mma-super-fight",
+    "thumbnail": "https://ArcNovaZone.github.io/images/528.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "squidgameio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/529.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://ArcNovaZone.github.io/images/530.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bffs-luxury-loungewear",
+    "thumbnail": "https://ArcNovaZone.github.io/images/531.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "city-car-driver",
+    "thumbnail": "https://ArcNovaZone.github.io/images/532.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "schoolboy-escape-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/533.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "golf-mini",
+    "thumbnail": "https://ArcNovaZone.github.io/images/534.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "fruit-merge-arena",
+    "thumbnail": "https://ArcNovaZone.github.io/images/535.webp",
+    "genre": "Simulation, Merge"
+  },
+  {
+    "id": "bubble-pop-frenzy-dnt",
+    "thumbnail": "https://ArcNovaZone.github.io/images/536.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "style-icons-2024-rewind-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/537.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "billiardx",
+    "thumbnail": "https://ArcNovaZone.github.io/images/538.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-puzzle-connect-the-balls",
+    "thumbnail": "https://ArcNovaZone.github.io/images/539.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/540.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "core-defender-iam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/541.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dino-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/542.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "idle-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/543.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "duck-hunt",
+    "thumbnail": "https://ArcNovaZone.github.io/images/545.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spearfishing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/546.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "yukon-family-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/547.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sportsball-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/548.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "astral-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/549.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "cleaning-princess",
+    "thumbnail": "https://ArcNovaZone.github.io/images/550.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "small-wardrobe",
+    "thumbnail": "https://ArcNovaZone.github.io/images/551.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "bffs-cherry-blossom-celebration",
+    "thumbnail": "https://ArcNovaZone.github.io/images/552.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mahjong-quest-candyland-adventures",
+    "thumbnail": "https://ArcNovaZone.github.io/images/553.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "evolve",
+    "thumbnail": "https://ArcNovaZone.github.io/images/554.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clickermon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/555.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "neighborhood-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/556.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "obby-mine-jqj",
+    "thumbnail": "https://ArcNovaZone.github.io/images/557.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-rebirth",
+    "thumbnail": "https://ArcNovaZone.github.io/images/558.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "asmr-makeover-makeup-studio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/559.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "perfect-shot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/560.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "crazy-bus-station",
+    "thumbnail": "https://ArcNovaZone.github.io/images/561.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "air-strike",
+    "thumbnail": "https://ArcNovaZone.github.io/images/562.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "special-ops-go",
+    "thumbnail": "https://ArcNovaZone.github.io/images/563.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-kitty",
+    "thumbnail": "https://ArcNovaZone.github.io/images/564.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mr-reckless-car-chase-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/565.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "solitaire-deluxe-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/566.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "bus-escape-clear-jam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/567.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "electric-man",
+    "thumbnail": "https://ArcNovaZone.github.io/images/568.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snake-wiggle-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/569.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-tea",
+    "thumbnail": "https://ArcNovaZone.github.io/images/570.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "duckpark-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/571.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crash-test-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/572.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dualight-a-reflected-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/573.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fix-da-brainrot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/574.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "free-rally-lost-angeles",
+    "thumbnail": "https://ArcNovaZone.github.io/images/575.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "medieval-battle-2p",
+    "thumbnail": "https://ArcNovaZone.github.io/images/576.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-warrior-parkour",
+    "thumbnail": "https://ArcNovaZone.github.io/images/577.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mojicon-emoji-connect",
+    "thumbnail": "https://ArcNovaZone.github.io/images/578.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "desert-tycoon-zov",
+    "thumbnail": "https://ArcNovaZone.github.io/images/579.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "oil-digging",
+    "thumbnail": "https://ArcNovaZone.github.io/images/580.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "squid-game-playground-shooter",
+    "thumbnail": "https://ArcNovaZone.github.io/images/581.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "obby-tower-parkour-climb",
+    "thumbnail": "https://ArcNovaZone.github.io/images/582.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gt-drift-most-wanted",
+    "thumbnail": "https://ArcNovaZone.github.io/images/583.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "fast-ball-jump",
+    "thumbnail": "https://ArcNovaZone.github.io/images/584.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sausage-man-shooting-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/585.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "blocky-demolition-derby",
+    "thumbnail": "https://ArcNovaZone.github.io/images/586.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blade-forge-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/587.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "backgammon-deluxe-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/588.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "crazysteveio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/589.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vegamix-da-vinci-puzzles",
+    "thumbnail": "https://ArcNovaZone.github.io/images/590.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "atv-ultimate-offroad",
+    "thumbnail": "https://ArcNovaZone.github.io/images/591.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "football-legends-2026",
+    "thumbnail": "https://ArcNovaZone.github.io/images/592.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "amazing-strange-rope-police-vice-spider",
+    "thumbnail": "https://ArcNovaZone.github.io/images/593.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-tile-trio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dino-s-farm-shop",
+    "thumbnail": "https://ArcNovaZone.github.io/images/595.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://ArcNovaZone.github.io/images/596.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/597.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "capybara-block-shot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/598.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robbie-stand-on-the-right-color",
+    "thumbnail": "https://ArcNovaZone.github.io/images/599.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "drive-race-crash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/600.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "worlds-hardest-game-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/601.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lion-family-sim-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/602.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "clinic-cleanup-crew",
+    "thumbnail": "https://ArcNovaZone.github.io/images/603.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "wild-animal-zoo-city-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/604.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-portal",
+    "thumbnail": "https://ArcNovaZone.github.io/images/605.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paper-knight-quest--the-cube-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/606.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "giant-run-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/607.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kings-and-queens-solitaire-tripeaks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/608.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/609.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "monster-truck-demolition-derby",
+    "thumbnail": "https://ArcNovaZone.github.io/images/610.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-hotel-empire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/611.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "twilight-solitaire-tripeaks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/612.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "elemental-monsters-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/613.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-in-style",
+    "thumbnail": "https://ArcNovaZone.github.io/images/614.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "outlets-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/615.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "deep-miners-idle-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/616.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-architect-tic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/617.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-match-juicy-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/618.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "elite-sniper",
+    "thumbnail": "https://ArcNovaZone.github.io/images/619.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fill-the-gap",
+    "thumbnail": "https://ArcNovaZone.github.io/images/620.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nuts-and-bolts-thief-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/621.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "food-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/622.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mojo-match-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/623.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://ArcNovaZone.github.io/images/624.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fall-of-the-king",
+    "thumbnail": "https://ArcNovaZone.github.io/images/625.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-rider-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/626.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grand-escape-prison",
+    "thumbnail": "https://ArcNovaZone.github.io/images/627.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-flasher-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/628.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-restore-hidden-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/629.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/630.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "project-restoration-axt",
+    "thumbnail": "https://ArcNovaZone.github.io/images/631.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://ArcNovaZone.github.io/images/632.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gragyriss-captor-of-princesses",
+    "thumbnail": "https://ArcNovaZone.github.io/images/633.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "think-to-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/634.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "click-kitty-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/635.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "dye-it-right-color-picker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/636.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cow-jam-farm-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/637.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pool-hustlers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/638.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soldiers---capture-and-control",
+    "thumbnail": "https://ArcNovaZone.github.io/images/639.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blue",
+    "thumbnail": "https://ArcNovaZone.github.io/images/640.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kakato-otoshi",
+    "thumbnail": "https://ArcNovaZone.github.io/images/641.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gold-miner",
+    "thumbnail": "https://ArcNovaZone.github.io/images/642.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "100-meters-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/643.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "castel-wars-new-era",
+    "thumbnail": "https://ArcNovaZone.github.io/images/644.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "god-for-a-day-prequel",
+    "thumbnail": "https://ArcNovaZone.github.io/images/645.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hospital-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/646.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-racing-3d-void",
+    "thumbnail": "https://ArcNovaZone.github.io/images/647.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wheel-merge-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/648.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tic-tac-toe-match-three",
+    "thumbnail": "https://ArcNovaZone.github.io/images/649.webp",
+    "genre": "Boardgames, Match-3"
+  },
+  {
+    "id": "mineclicker-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/650.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "patterns",
+    "thumbnail": "https://ArcNovaZone.github.io/images/651.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rhythm-knight",
+    "thumbnail": "https://ArcNovaZone.github.io/images/652.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "polygon-space",
+    "thumbnail": "https://ArcNovaZone.github.io/images/653.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "idle-magic-academy-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/654.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombiecraftio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/655.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mega-escape-car-parking-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/656.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "merge-cube-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/657.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sandstorm-covert-ops",
+    "thumbnail": "https://ArcNovaZone.github.io/images/658.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://ArcNovaZone.github.io/images/659.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "road-of-fury-4-kdg",
+    "thumbnail": "https://ArcNovaZone.github.io/images/660.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smarty-bubbles",
+    "thumbnail": "https://ArcNovaZone.github.io/images/661.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bobr-turbo-craft-cars-oxs",
+    "thumbnail": "https://ArcNovaZone.github.io/images/662.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "we-not-survive",
+    "thumbnail": "https://ArcNovaZone.github.io/images/663.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "royal-farm-mnl",
+    "thumbnail": "https://ArcNovaZone.github.io/images/664.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-defense-clash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/665.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bone-breaker-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/666.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-quest-daily",
+    "thumbnail": "https://ArcNovaZone.github.io/images/667.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "monster-school-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/668.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-land",
+    "thumbnail": "https://ArcNovaZone.github.io/images/669.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "domino-online-multiplayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/670.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "tank-sniper-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/671.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "bubble-classic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/672.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "marathon-race-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/673.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "car-care-repair-dudu-mechanic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/674.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "laundry-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/675.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-driving-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/676.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "real-football-bac",
+    "thumbnail": "https://ArcNovaZone.github.io/images/677.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stumble-guys",
+    "thumbnail": "https://ArcNovaZone.github.io/images/678.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "letterclash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/679.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dream-restaurant-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/680.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "durak",
+    "thumbnail": "https://ArcNovaZone.github.io/images/681.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "merge-fusion",
+    "thumbnail": "https://ArcNovaZone.github.io/images/682.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mahjong-gardens",
+    "thumbnail": "https://ArcNovaZone.github.io/images/683.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-sprunki-pet-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/684.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toy-claw-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/685.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "wordling",
+    "thumbnail": "https://ArcNovaZone.github.io/images/686.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-crystal-underwater",
+    "thumbnail": "https://ArcNovaZone.github.io/images/687.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gluttony",
+    "thumbnail": "https://ArcNovaZone.github.io/images/688.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-beats",
+    "thumbnail": "https://ArcNovaZone.github.io/images/689.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jailbreak-assault",
+    "thumbnail": "https://ArcNovaZone.github.io/images/690.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "what-a-leg",
+    "thumbnail": "https://ArcNovaZone.github.io/images/691.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pool-bubbles",
+    "thumbnail": "https://ArcNovaZone.github.io/images/692.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-ultimate",
+    "thumbnail": "https://ArcNovaZone.github.io/images/693.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "gas-station---stick-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/694.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arcade-empire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/695.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coe-rabbit",
+    "thumbnail": "https://ArcNovaZone.github.io/images/696.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "basketball-league",
+    "thumbnail": "https://ArcNovaZone.github.io/images/697.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emergency-operator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/698.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/699.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hero-castle-war-tower-attack",
+    "thumbnail": "https://ArcNovaZone.github.io/images/700.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-phone-store-gqp",
+    "thumbnail": "https://ArcNovaZone.github.io/images/701.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-simulator-monster-truck",
+    "thumbnail": "https://ArcNovaZone.github.io/images/702.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kiomet-com",
+    "thumbnail": "https://ArcNovaZone.github.io/images/703.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "afk-dungeon-zaq",
+    "thumbnail": "https://ArcNovaZone.github.io/images/704.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shop-sorting-xmas",
+    "thumbnail": "https://ArcNovaZone.github.io/images/705.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "car-speed-racing-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/706.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jetski-boat-racing-boat-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/707.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-retro-chase",
+    "thumbnail": "https://ArcNovaZone.github.io/images/708.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://ArcNovaZone.github.io/images/709.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-pirate-plunder-journey",
+    "thumbnail": "https://ArcNovaZone.github.io/images/710.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "subway-clash-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/711.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-them-all",
+    "thumbnail": "https://ArcNovaZone.github.io/images/712.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "us-army-car-games-truck-driving",
+    "thumbnail": "https://ArcNovaZone.github.io/images/713.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "card-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/714.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hero-tower-wars-merge-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/715.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "escape-the-horror-craft",
+    "thumbnail": "https://ArcNovaZone.github.io/images/716.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "we-become-what-we-behold",
+    "thumbnail": "https://ArcNovaZone.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "survival-master-456-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/718.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "obby-party-multiplayer-ozu",
+    "thumbnail": "https://ArcNovaZone.github.io/images/719.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drift-hunters",
+    "thumbnail": "https://ArcNovaZone.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blastify-ii",
+    "thumbnail": "https://ArcNovaZone.github.io/images/721.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "g-wagon-city-driver",
+    "thumbnail": "https://ArcNovaZone.github.io/images/722.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "grow-tower",
+    "thumbnail": "https://ArcNovaZone.github.io/images/723.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dinosaurs-vs-asteroids",
+    "thumbnail": "https://ArcNovaZone.github.io/images/724.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "scala-40",
+    "thumbnail": "https://ArcNovaZone.github.io/images/725.webp",
+    "genre": "Boardgames, Cards"
+  },
+  {
+    "id": "draw-climber",
+    "thumbnail": "https://ArcNovaZone.github.io/images/726.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "popping-pets",
+    "thumbnail": "https://ArcNovaZone.github.io/images/727.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "gta-grand-vegas-crime",
+    "thumbnail": "https://ArcNovaZone.github.io/images/728.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "merge-fight",
+    "thumbnail": "https://ArcNovaZone.github.io/images/729.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ellie-and-friends-get-ready-for-first-date",
+    "thumbnail": "https://ArcNovaZone.github.io/images/730.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "swing-monkey",
+    "thumbnail": "https://ArcNovaZone.github.io/images/731.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gladiators-merge-and-fight",
+    "thumbnail": "https://ArcNovaZone.github.io/images/732.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://ArcNovaZone.github.io/images/733.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "woodland-slide",
+    "thumbnail": "https://ArcNovaZone.github.io/images/734.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "falling-man",
+    "thumbnail": "https://ArcNovaZone.github.io/images/735.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hack-and-climb",
+    "thumbnail": "https://ArcNovaZone.github.io/images/736.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-freekick-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/737.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "run-friends",
+    "thumbnail": "https://ArcNovaZone.github.io/images/738.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "escape-from-zombies",
+    "thumbnail": "https://ArcNovaZone.github.io/images/739.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ultimate-destruction-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/740.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "trash-master-rpk",
+    "thumbnail": "https://ArcNovaZone.github.io/images/741.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-pop-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/742.webp",
+    "genre": "Shooter, Merge"
+  },
+  {
+    "id": "robby-the-lava-tsunami",
+    "thumbnail": "https://ArcNovaZone.github.io/images/743.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "garden-guardians",
+    "thumbnail": "https://ArcNovaZone.github.io/images/744.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-objects",
+    "thumbnail": "https://ArcNovaZone.github.io/images/745.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "winter-solitaire-tripeaks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/746.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "merge-fruits",
+    "thumbnail": "https://ArcNovaZone.github.io/images/747.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mortar-squad",
+    "thumbnail": "https://ArcNovaZone.github.io/images/748.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "climb-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/749.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "animal-royal-vse",
+    "thumbnail": "https://ArcNovaZone.github.io/images/750.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gearshift-one",
+    "thumbnail": "https://ArcNovaZone.github.io/images/751.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-cave-for-brainrot-hdd",
+    "thumbnail": "https://ArcNovaZone.github.io/images/752.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-cat-restaurant",
+    "thumbnail": "https://ArcNovaZone.github.io/images/753.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "chicken-and-bee",
+    "thumbnail": "https://ArcNovaZone.github.io/images/754.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plinko-clicker-hdl",
+    "thumbnail": "https://ArcNovaZone.github.io/images/755.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burnin-rubber-crash-n-burn",
+    "thumbnail": "https://ArcNovaZone.github.io/images/756.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-solitaire-mahjong-classic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/757.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "the-counterfeit-bank",
+    "thumbnail": "https://ArcNovaZone.github.io/images/758.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "merge-squares",
+    "thumbnail": "https://ArcNovaZone.github.io/images/759.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tri-peaks-emerland-solitaire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/760.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "blue-hedgehog-hill-dash-ride",
+    "thumbnail": "https://ArcNovaZone.github.io/images/761.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "short-life",
+    "thumbnail": "https://ArcNovaZone.github.io/images/762.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "riot-village",
+    "thumbnail": "https://ArcNovaZone.github.io/images/763.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "jump-man",
+    "thumbnail": "https://ArcNovaZone.github.io/images/764.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "get-1000",
+    "thumbnail": "https://ArcNovaZone.github.io/images/765.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grass-cutter-mowing-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/766.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dino-hunter-king",
+    "thumbnail": "https://ArcNovaZone.github.io/images/767.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mysterious-familiars-enchanted-bestiary",
+    "thumbnail": "https://ArcNovaZone.github.io/images/768.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dta-best-thief",
+    "thumbnail": "https://ArcNovaZone.github.io/images/769.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "warlord-fantasy-rpg",
+    "thumbnail": "https://ArcNovaZone.github.io/images/770.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-zoo-pcr",
+    "thumbnail": "https://ArcNovaZone.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plant-squad",
+    "thumbnail": "https://ArcNovaZone.github.io/images/772.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gun-war-z1",
+    "thumbnail": "https://ArcNovaZone.github.io/images/773.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cybershark",
+    "thumbnail": "https://ArcNovaZone.github.io/images/774.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hypemaster",
+    "thumbnail": "https://ArcNovaZone.github.io/images/775.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-big-hit-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/776.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "crazy-zoo-swipe-match-3-puzzle-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/777.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "battle-tanks-firestorm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/778.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "bffs-k-pop-fangirls",
+    "thumbnail": "https://ArcNovaZone.github.io/images/779.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "container-auction",
+    "thumbnail": "https://ArcNovaZone.github.io/images/780.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "energy-superman-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/781.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bed-wars",
+    "thumbnail": "https://ArcNovaZone.github.io/images/782.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-drawing-game-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/783.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chicken-scream",
+    "thumbnail": "https://ArcNovaZone.github.io/images/784.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-bullet-stealth-ninja-killstreak",
+    "thumbnail": "https://ArcNovaZone.github.io/images/785.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "blocks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/786.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "outside",
+    "thumbnail": "https://ArcNovaZone.github.io/images/787.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "random-cards-tower-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/788.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cooking-live",
+    "thumbnail": "https://ArcNovaZone.github.io/images/789.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sports-store-idle-business-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/790.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "avatar-world-secrets",
+    "thumbnail": "https://ArcNovaZone.github.io/images/791.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "memerot-sort-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/792.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-racer-stunt-mania",
+    "thumbnail": "https://ArcNovaZone.github.io/images/793.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mafia-business-empire-stickman-escape-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/794.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://ArcNovaZone.github.io/images/795.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "word-search-universe-easter",
+    "thumbnail": "https://ArcNovaZone.github.io/images/796.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "bloons-tower-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/797.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "headleg-dash-parkour",
+    "thumbnail": "https://ArcNovaZone.github.io/images/798.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-christmas",
+    "thumbnail": "https://ArcNovaZone.github.io/images/799.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "italian-brainrot-obby-parkour",
+    "thumbnail": "https://ArcNovaZone.github.io/images/800.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-game-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/801.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "hero-3-flying-robot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/802.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skate-hooligans",
+    "thumbnail": "https://ArcNovaZone.github.io/images/803.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "uncle-hit-punch-the-dummy",
+    "thumbnail": "https://ArcNovaZone.github.io/images/804.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-bakery",
+    "thumbnail": "https://ArcNovaZone.github.io/images/805.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "video-studio-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/806.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "simple-loot-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/807.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bff-makeover---spa-dress-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/808.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "launch-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/809.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-royale-survival",
+    "thumbnail": "https://ArcNovaZone.github.io/images/810.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sakura-branch",
+    "thumbnail": "https://ArcNovaZone.github.io/images/811.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "golf-maze-ous",
+    "thumbnail": "https://ArcNovaZone.github.io/images/812.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "yes-or-no-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/813.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-wizard-save-your-girlfriend",
+    "thumbnail": "https://ArcNovaZone.github.io/images/814.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "shoot-and-drive",
+    "thumbnail": "https://ArcNovaZone.github.io/images/815.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sophie-s-farm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/816.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "guns-vs-magic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/817.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basketball-shot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/818.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chibi-doll-avatar-creator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/819.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "warfare-1944",
+    "thumbnail": "https://ArcNovaZone.github.io/images/820.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "scary-horror-escape-room-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/821.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "happy-burger",
+    "thumbnail": "https://ArcNovaZone.github.io/images/822.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-hd-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/823.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "fortress-of-the-wizard-mfx",
+    "thumbnail": "https://ArcNovaZone.github.io/images/824.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "typing-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/825.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-and-wizards-match",
+    "thumbnail": "https://ArcNovaZone.github.io/images/826.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pass-the-bomb",
+    "thumbnail": "https://ArcNovaZone.github.io/images/827.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kaleidoscope",
+    "thumbnail": "https://ArcNovaZone.github.io/images/828.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rollup-tiles",
+    "thumbnail": "https://ArcNovaZone.github.io/images/829.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flow-mania",
+    "thumbnail": "https://ArcNovaZone.github.io/images/830.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://ArcNovaZone.github.io/images/831.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grow-valley",
+    "thumbnail": "https://ArcNovaZone.github.io/images/832.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dont-panic-dude",
+    "thumbnail": "https://ArcNovaZone.github.io/images/833.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wordler",
+    "thumbnail": "https://ArcNovaZone.github.io/images/834.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lulu-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/835.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sigma-boy-musical-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/836.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "baby-dress-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/837.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "math-quest",
+    "thumbnail": "https://ArcNovaZone.github.io/images/838.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sports-heads-soccer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/839.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-vs-zombie-apocalypse-shooting-pro",
+    "thumbnail": "https://ArcNovaZone.github.io/images/840.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "cube-island-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/841.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bus-and-subway-runner",
+    "thumbnail": "https://ArcNovaZone.github.io/images/842.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-truck-crush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/843.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "thread-sort-knit-pictures",
+    "thumbnail": "https://ArcNovaZone.github.io/images/844.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ellies-recipe-dubai-chocolate-bar",
+    "thumbnail": "https://ArcNovaZone.github.io/images/845.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "superhero-transform-change-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/846.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bus-driver-simulator-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/847.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gt-flying-car-racing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/848.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "lemonade-tycoon-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/849.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "aod---art-of-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/850.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flying-wings-hovercraft",
+    "thumbnail": "https://ArcNovaZone.github.io/images/851.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-city-driver",
+    "thumbnail": "https://ArcNovaZone.github.io/images/852.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "western-shooter-battle-gun-duel",
+    "thumbnail": "https://ArcNovaZone.github.io/images/853.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spotti-find-the-differences",
+    "thumbnail": "https://ArcNovaZone.github.io/images/854.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "incremental-epic-hero",
+    "thumbnail": "https://ArcNovaZone.github.io/images/855.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "worldguessr",
+    "thumbnail": "https://ArcNovaZone.github.io/images/856.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grandmas-last-stand",
+    "thumbnail": "https://ArcNovaZone.github.io/images/857.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "nubik-in-the-monster-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/858.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "spider-solitaire-2-suits",
+    "thumbnail": "https://ArcNovaZone.github.io/images/859.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "table-tower-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/860.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daring-jack",
+    "thumbnail": "https://ArcNovaZone.github.io/images/861.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "the-sort-agency",
+    "thumbnail": "https://ArcNovaZone.github.io/images/862.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "war-of-mine",
+    "thumbnail": "https://ArcNovaZone.github.io/images/863.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "three-chickens",
+    "thumbnail": "https://ArcNovaZone.github.io/images/864.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "snake-go-escape-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/865.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "road-of-fury-4",
+    "thumbnail": "https://ArcNovaZone.github.io/images/866.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "draw-bridge-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/867.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "forebloomed",
+    "thumbnail": "https://ArcNovaZone.github.io/images/868.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-dig-brainrots",
+    "thumbnail": "https://ArcNovaZone.github.io/images/869.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-game-room-with-a-lamp",
+    "thumbnail": "https://ArcNovaZone.github.io/images/870.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "manyunya-saving-the-princess",
+    "thumbnail": "https://ArcNovaZone.github.io/images/871.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "stickman-ragdoll-playground",
+    "thumbnail": "https://ArcNovaZone.github.io/images/872.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "greek-tower-stacker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/873.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basketball-fever",
+    "thumbnail": "https://ArcNovaZone.github.io/images/874.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "2048-mayhemio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/875.webp",
+    "genre": ".IO, Merge"
+  },
+  {
+    "id": "city-constructor",
+    "thumbnail": "https://ArcNovaZone.github.io/images/876.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "impostor-among-space",
+    "thumbnail": "https://ArcNovaZone.github.io/images/877.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki",
+    "thumbnail": "https://ArcNovaZone.github.io/images/878.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "maze-craze",
+    "thumbnail": "https://ArcNovaZone.github.io/images/879.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "supply-chain-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/880.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plane-chase",
+    "thumbnail": "https://ArcNovaZone.github.io/images/881.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninja-time",
+    "thumbnail": "https://ArcNovaZone.github.io/images/882.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brain-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/883.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "merge-food-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/884.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "fidget-trading-card-toy",
+    "thumbnail": "https://ArcNovaZone.github.io/images/885.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "airline-tycoon-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/886.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grow-a-garden---growden-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/887.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/888.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jewels-blitz-legends",
+    "thumbnail": "https://ArcNovaZone.github.io/images/889.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pin-away",
+    "thumbnail": "https://ArcNovaZone.github.io/images/890.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "thread-sort",
+    "thumbnail": "https://ArcNovaZone.github.io/images/891.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snow-rider-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/892.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "titan-soul-action-rpg-offline",
+    "thumbnail": "https://ArcNovaZone.github.io/images/893.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "papas-freezeria",
+    "thumbnail": "https://ArcNovaZone.github.io/images/894.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dwarves-glory-death-and-loot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/895.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "21a",
+    "thumbnail": "https://ArcNovaZone.github.io/images/896.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "ice-cube",
+    "thumbnail": "https://ArcNovaZone.github.io/images/897.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "fashion-famous",
+    "thumbnail": "https://ArcNovaZone.github.io/images/898.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dirt-rally-driver",
+    "thumbnail": "https://ArcNovaZone.github.io/images/899.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocky-trials",
+    "thumbnail": "https://ArcNovaZone.github.io/images/900.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logic-blast-explorer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/901.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "connect-puzzle-image",
+    "thumbnail": "https://ArcNovaZone.github.io/images/902.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/903.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "little-robot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/904.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "freecell-solitaire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/905.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "color-king",
+    "thumbnail": "https://ArcNovaZone.github.io/images/906.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hide-me",
+    "thumbnail": "https://ArcNovaZone.github.io/images/907.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hard-rock-zombie-truck",
+    "thumbnail": "https://ArcNovaZone.github.io/images/908.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "logistics-inc",
+    "thumbnail": "https://ArcNovaZone.github.io/images/909.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hextoland",
+    "thumbnail": "https://ArcNovaZone.github.io/images/910.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-again-dtq",
+    "thumbnail": "https://ArcNovaZone.github.io/images/911.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "web-slinging-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/912.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mono-move",
+    "thumbnail": "https://ArcNovaZone.github.io/images/913.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-transform-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/914.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://ArcNovaZone.github.io/images/915.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "castle-craft",
+    "thumbnail": "https://ArcNovaZone.github.io/images/916.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "swimming-pool-romance",
+    "thumbnail": "https://ArcNovaZone.github.io/images/917.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cookie-clicker-save-the-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/918.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mergeduelio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/919.webp",
+    "genre": ".IO, Merge"
+  },
+  {
+    "id": "3d-fps-target-shooting",
+    "thumbnail": "https://ArcNovaZone.github.io/images/920.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "epic-hero-quest-idle-rpg",
+    "thumbnail": "https://ArcNovaZone.github.io/images/921.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "bowmasters",
+    "thumbnail": "https://ArcNovaZone.github.io/images/922.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "dungeon-crawl-theater",
+    "thumbnail": "https://ArcNovaZone.github.io/images/923.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-drones",
+    "thumbnail": "https://ArcNovaZone.github.io/images/924.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "granny-gta-vegas",
+    "thumbnail": "https://ArcNovaZone.github.io/images/925.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "stickman-duelist-supreme-war",
+    "thumbnail": "https://ArcNovaZone.github.io/images/926.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-rivers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/927.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "duck-hunting-open-season",
+    "thumbnail": "https://ArcNovaZone.github.io/images/928.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crush-it-all",
+    "thumbnail": "https://ArcNovaZone.github.io/images/929.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pixel-gun-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/930.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-lost-city-match-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/931.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "neon-nexus-starship-evolution",
+    "thumbnail": "https://ArcNovaZone.github.io/images/932.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "valentine-s-day-proposal",
+    "thumbnail": "https://ArcNovaZone.github.io/images/933.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-chess-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/934.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://ArcNovaZone.github.io/images/935.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "cat-sorter-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/936.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stunt-paradise",
+    "thumbnail": "https://ArcNovaZone.github.io/images/937.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-cinema-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/938.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "world-z-defense-zombie-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/939.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "so-different-dragons",
+    "thumbnail": "https://ArcNovaZone.github.io/images/940.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shoot-and-drive",
+    "thumbnail": "https://ArcNovaZone.github.io/images/941.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "clap-clap-nightmare",
+    "thumbnail": "https://ArcNovaZone.github.io/images/942.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "huggy-wuggy-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/943.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bird-sort-challenges",
+    "thumbnail": "https://ArcNovaZone.github.io/images/944.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "pixel-sphere-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/945.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dalgona-game2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/946.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiny-fishing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/947.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mutant-assassin-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/948.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "snakes",
+    "thumbnail": "https://ArcNovaZone.github.io/images/949.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "guess-the-drawing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/950.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "anime-couple-avatar-maker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/951.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "sticker-puzzle-book",
+    "thumbnail": "https://ArcNovaZone.github.io/images/952.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mortal-kombat-karnage",
+    "thumbnail": "https://ArcNovaZone.github.io/images/953.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skip-love",
+    "thumbnail": "https://ArcNovaZone.github.io/images/954.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-merge-idle-io-zone-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/955.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "let-me-eat-big-fish-eat-smaller",
+    "thumbnail": "https://ArcNovaZone.github.io/images/956.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-rooms-escape-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/957.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dashers-io-jwo",
+    "thumbnail": "https://ArcNovaZone.github.io/images/958.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-to-smash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/959.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "galaxy-control-3d-strategy",
+    "thumbnail": "https://ArcNovaZone.github.io/images/960.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-museum-of-dots",
+    "thumbnail": "https://ArcNovaZone.github.io/images/961.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slime-attack-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/962.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cs-chaos-squad",
+    "thumbnail": "https://ArcNovaZone.github.io/images/963.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "maze-cube-2048",
+    "thumbnail": "https://ArcNovaZone.github.io/images/964.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "lovely-cat-pet-life",
+    "thumbnail": "https://ArcNovaZone.github.io/images/965.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "kawaii-claw-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/966.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "ragdoll-fight",
+    "thumbnail": "https://ArcNovaZone.github.io/images/967.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bonanza-shooter-bubble-blast",
+    "thumbnail": "https://ArcNovaZone.github.io/images/968.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tiny-farm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/969.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "crazy-car-stunts",
+    "thumbnail": "https://ArcNovaZone.github.io/images/970.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cue-billiard-club",
+    "thumbnail": "https://ArcNovaZone.github.io/images/971.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "force-master-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/972.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "slope-emoji-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/973.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "i-am-quadrober",
+    "thumbnail": "https://ArcNovaZone.github.io/images/974.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ovo-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/975.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-miner-2-escape-form-prison",
+    "thumbnail": "https://ArcNovaZone.github.io/images/976.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-mushrooms",
+    "thumbnail": "https://ArcNovaZone.github.io/images/977.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/978.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "skribblio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/979.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zen-mower",
+    "thumbnail": "https://ArcNovaZone.github.io/images/980.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "seafaring-memory-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/981.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "crazy-bots",
+    "thumbnail": "https://ArcNovaZone.github.io/images/982.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soda-block-jam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/983.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "uprunner",
+    "thumbnail": "https://ArcNovaZone.github.io/images/984.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "divinex",
+    "thumbnail": "https://ArcNovaZone.github.io/images/985.webp",
+    "genre": "Art, Mahjong & Connect"
+  },
+  {
+    "id": "yellowstone-ranch",
+    "thumbnail": "https://ArcNovaZone.github.io/images/986.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-grand-prix",
+    "thumbnail": "https://ArcNovaZone.github.io/images/987.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocks-fill-tangram",
+    "thumbnail": "https://ArcNovaZone.github.io/images/988.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pirate-island",
+    "thumbnail": "https://ArcNovaZone.github.io/images/989.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "life-in-the-static",
+    "thumbnail": "https://ArcNovaZone.github.io/images/990.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-in-to-the-plane",
+    "thumbnail": "https://ArcNovaZone.github.io/images/991.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "black-pink-black-friday-fever",
+    "thumbnail": "https://ArcNovaZone.github.io/images/992.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "particle-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/993.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-tour-kfz",
+    "thumbnail": "https://ArcNovaZone.github.io/images/994.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mojicon-spring-connect",
+    "thumbnail": "https://ArcNovaZone.github.io/images/995.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "vex-x3m-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/996.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "eggy-car",
+    "thumbnail": "https://ArcNovaZone.github.io/images/997.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pikto-fun",
+    "thumbnail": "https://ArcNovaZone.github.io/images/998.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pin-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/999.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "container-sort-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1000.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2048skill-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1001.webp",
+    "genre": "Shooter, Match-3"
+  },
+  {
+    "id": "pipe-puzzle-connect-flow",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1002.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robbie-the-robot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1003.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smash-guy-ragdoll-punch-hero",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1004.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "67-steal-brainrot-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1005.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "xtreme-moto-mayhem",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1006.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-a-path-to-the-finish-line",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1007.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-kitchen",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1008.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "piggy-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1009.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flag-puzzle-jam-collect-flags",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1010.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "plactions",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1011.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "card-sort-ghc",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1012.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farmer-challenge-party",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1013.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cornhole-league-board-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1014.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "space-blast",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1015.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "dragon-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1016.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "christmas-sorting",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1017.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "eternal-siege",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1018.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-archer-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1019.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "behold-battle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1020.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "foreign-creature",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1021.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grand-clash-arena",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1022.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "magic-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1023.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-white-room-5",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1024.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1025.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "megabattle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1026.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "water-dig-rescue",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1027.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-space-challenge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1028.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "sudoku-brain-blocks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1029.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "lunar-phase-battle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1030.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "wild-west-match-2-the-gold-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1031.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stack-n-sort",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1032.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2048-number-match",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1033.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mafia-roulette",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1034.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "super-mx-motocross-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1035.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bird-flight-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1036.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-legends",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1037.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1038.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-easter-coloring",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1039.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "merge-tools---merge-ang-dig",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1040.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1041.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "chess-nations",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1042.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archer-defense",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1043.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "k-pop-hunter-fashion",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1044.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ice-cream-cafe",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1045.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-mission-blj",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1046.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1047.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spellmind",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1048.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "scarred",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1049.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-tsunami-for-brainrots-wfe",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1050.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robots-gone-wild",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1051.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "merge-army",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1052.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "planet-plummet",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1053.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stack-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1054.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bulletstorm-zer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1055.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gloves-grow-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1056.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1057.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "crazy-guys",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1058.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pocket-parking",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1059.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kings-clash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1060.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-mayhem-online",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1061.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spotdiffers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1062.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "basketball-serial-shooter",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1063.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flappy-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1064.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "powerwash-simulator-3d-wash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1065.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-flap",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1066.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "noob-vs-monsters",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1067.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ragdoll-bob-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1068.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "looper",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1069.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "high-school-popular-games",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1070.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashionista-makeup-dress-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1071.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "garage-parking",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1072.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "who-dies-last",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1073.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "football-heads-2025",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1074.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "panda-simulator-3d-animal-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1075.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "eye-attack-toilet-monster-war",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1076.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jump-girl-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1077.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "taylor-dress-studio-preppy-wild-west-glam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1078.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "travel-with-me-asmr-edition",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1079.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sandbox-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1080.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "domino-world",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1081.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "robot-dog-city-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1082.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crusher-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1083.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombiecraft",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1084.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-ice-truck",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1085.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "emberwars-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1086.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "horse-riding-simulator-dgp",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1087.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "warfare-1917",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1088.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-block-jam-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1089.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "farming-tycoon-3d-diu",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1090.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swop-shoot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1091.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "agents-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1092.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chicken-banana-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1093.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "super-brain",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1094.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sliding-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1095.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "transformers-battle-for-the-city",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1096.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "capy-cafe",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1097.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-mine-upgrade-repeat",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1098.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "destination-brain-test",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1099.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shanghai-town",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1100.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pizza-anomalies-tiu",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1101.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blogger-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1102.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "connect-image",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1103.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dark-academia-wedding",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1104.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "horde-crusher",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1105.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-letters",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1106.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "getting-over-it",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1107.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-hero-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1108.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ball-sort",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1109.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fruit-balls-juicy-fusion",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1110.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spider-bubu",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1111.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fox-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1112.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "bowling-champion",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1113.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bounce-heroes",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1114.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-platformer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1115.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mr-cappuccino-assassino",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1116.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "battle-of-knights-robby-and-dragons",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1117.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-stone-miner",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1118.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cosmic-dash",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1119.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pinball",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1120.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-combine",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1121.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dogs-spot-the-differences",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1122.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "poke-the-presidents",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1123.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "butterfly-sort-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1124.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "coinblock-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1125.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "through-the-wall-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1126.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lol-surprise-game-zone",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1127.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "casino-robbery",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1128.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lazy-workers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1129.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "plug-man-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1130.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "last-stand-warrior",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1131.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1132.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tanks-merge-tank-war-blitz",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1133.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "snake-out-maze-escape",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1134.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-royal",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1135.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "winter-mahjong",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1136.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "goods-triple-match-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1137.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-mining-empire",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1138.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wood-farmer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1139.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zen-tile",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1140.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ammo-rush-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1141.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "catch-the-pig",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1142.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-reverse",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1143.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strike-force-action-platformer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1144.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "tropical-match-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1145.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stick-color-war",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1146.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "data-diggers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1147.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1148.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wool-mania---sort-puzzle-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1149.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "perfect-piano-magic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1150.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "taptapboom",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1151.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1152.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "madness-deathwish",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1153.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-grench-couple-holiday-dress-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1154.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brat-girl-summer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1155.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "satisfying-ball-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1156.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-mixer-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1157.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-pop-fairyland-xtl",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1158.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "english-checkers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1159.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "smoke-trail",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1160.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "guess-who-multiplayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1161.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-it-jam",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1162.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "knit-rescue",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1163.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tower-battle-ypr",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1164.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "motor-sport-challenge-type-r",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1165.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "capybara-jump",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1166.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "funny-battle-simulator-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1167.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocops",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1168.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "waterworks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1169.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burnout-drift",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1170.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-bros",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1171.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "global-transport-tycoon-idle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1172.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sqube-darkness",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1173.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "psg-soccer-freestyle-hgj",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1174.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "superwings-subway",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1175.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "escape-from-prison-multiplayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1176.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sure-shot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1177.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "push-them",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1178.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ice-dodo",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1179.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-outbreak-arena",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1180.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "earwax-clinic",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1181.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "dictator-simulator-1984",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1182.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "just-one-boss",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1183.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "penalty-shooters-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1184.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hazel-tangle-rope-3d-sorting-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1185.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tanks-merge",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1186.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "organize-it",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1187.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fun-mini-games-for-kids",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1188.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "screw-masters-3d-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1189.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wire-beat",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1190.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pro-bowling",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1191.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slime-clicker",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1192.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drone-racing-championship",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1193.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lost-things-hidden-objects",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1194.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-drop",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1195.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basketball-orbit",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1196.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aces-of-the-sky-epic-dogfights",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1197.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "m5-city-driver",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1198.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cloak-master-shooter-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1199.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "chicken-cs",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1200.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-invaders",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1201.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "immortal-dark-slayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1202.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slingshot-fortress",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1203.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jigsaw-fantasy",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1204.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "tri-achnid",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1205.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toy-cars-3d-racing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1206.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1207.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "daily-emoji-hunt",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1208.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fisherman-life",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1209.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ocean-small-hospital-doctor",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1210.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "fire-ball-and-water-ball-parkour-love-balls",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1211.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "punchy-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1212.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-tnt-blast",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1213.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "triangles",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1214.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1215.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "stickman-fight-pro",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1216.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "black-pink-halloween-concert",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1217.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "clash-of-tanks",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1218.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bouncy-buddies-physics-puzzle",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1219.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "used-car-dealer-tycoon",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1220.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monsters-tactics",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1221.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-miners-multiplayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1222.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "warfare-1942-online-shooter",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1223.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "water-pool-heroes-io",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1224.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-2048-hexa",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1225.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-connect-2-2",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1226.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logic-chain-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1227.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dudu-engineering-truck",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1228.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "football-rush-3d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1229.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "revolution-idle-x-demo",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1230.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hill-climb-on-moto-bike",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1231.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zoo-anomaly-simulation",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1232.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mahjong-big",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1233.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heroes-of-match-3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1234.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-pop-fairyland",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1235.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "hidden-object-rooms-exploration",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1236.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "asteroid-breaker-ezu",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1237.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bouncepop-quest",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1238.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "asphalt-rush",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1239.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spooky-halloween-hidden-pumpkin",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1240.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1241.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1242.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "rescue-throw",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1243.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lemony-cafe",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1244.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "free-kick-underground-v3",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1245.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coloring-by-numbers-pixel-rooms",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1246.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-bike-the-champion",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1247.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bee-colony",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1248.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "match-arena",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1249.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murder-mystery",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1250.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1251.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "rolling-balls-space-race",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1252.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gobattleio",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1253.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1254.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-battleground",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1255.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-secret-service-zvf",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1256.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-legend",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1257.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "christmas-girls-dress-up",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1258.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slenderman-must-die-silent-streets",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1259.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chroma-tower",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1260.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "void-scrappers",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1261.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-evolution-of-trust",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1262.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rescue-rift",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1263.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "craft-of-wars",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1264.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "town-run",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1265.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cyberpunk-agent",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1266.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "dot-by-dot",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1267.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "disc-us",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1268.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idol-livestream-fashion-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1269.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "secret-rooms",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1270.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-brawler",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1271.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "space-swarm",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1272.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dirty-money-the-rich-get-rich",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1273.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chess-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1274.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "onebit-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1275.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombies-battle-for-survival",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1276.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "school-love-story-1",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1277.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ninja-spell-match",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1278.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "big-tower-tiny-square",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1279.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "make-it-boom",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1280.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tech-mart-simulator",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1281.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1282.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-wavee",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1283.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "granny-pills-defend-cactuses",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1284.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sandwich-runner",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1285.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "water-junk-warriors",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1286.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-adventure",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1287.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "survival-racing-extreme-road",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1288.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "find-the-cat-cat-search",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1289.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sokoban",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1290.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gas-station-ooe",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1291.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tailed-demon-slayer",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1292.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-royal",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1293.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-plane-landing",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1294.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "doodle-road",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1295.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "falling-fruits",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1296.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-weapon-master",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1297.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unpuzzle-tap-away-puzzle-game",
+    "thumbnail": "https://ArcNovaZone.github.io/images/1298.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  }
+]
